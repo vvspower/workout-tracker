@@ -1,5 +1,5 @@
 # Workout Tracker
-A map tracking app
+A workout tracking app
 
 click on the map to add workout, press enter to render the workout on the sidebar as well as on the map.
 
